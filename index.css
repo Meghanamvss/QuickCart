@@ -1,0 +1,51 @@
+
+
+.jewelery{
+ background-image: url("../public/images/f8.jpeg");
+ height:400px;
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+ text-align: center;
+
+
+ 
+}
+
+.men{
+ background-image: url("../public/images/m1.jpeg");
+ height:400px;
+
+ background-repeat: no-repeat;
+ background-position: center center;
+  display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+ text-align: center;
+  background-size: cover;
+
+}
+
+.women{
+ background-image: url("../public/images/f5.jpeg");
+  height:400px;
+ background-repeat: no-repeat;
+ background-position: center center;
+  display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+ text-align: center;
+  background-size: cover;
+
+}
+
+h1{
+ color:white;
+ text-shadow: 2px 2px 2px black;
+}
